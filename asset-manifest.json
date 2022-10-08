@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tedx-project/static/css/main.be5e212c.css",
+    "main.js": "/tedx-project/static/js/main.4a2b3d36.js",
+    "static/js/787.e9be17d9.chunk.js": "/tedx-project/static/js/787.e9be17d9.chunk.js",
+    "index.html": "/tedx-project/index.html",
+    "main.be5e212c.css.map": "/tedx-project/static/css/main.be5e212c.css.map",
+    "main.4a2b3d36.js.map": "/tedx-project/static/js/main.4a2b3d36.js.map",
+    "787.e9be17d9.chunk.js.map": "/tedx-project/static/js/787.e9be17d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be5e212c.css",
+    "static/js/main.4a2b3d36.js"
+  ]
+}
