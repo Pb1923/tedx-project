@@ -1,0 +1,90 @@
+/* img{
+    max-width: 100%;
+} */
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+.contain {
+    margin: 0;
+    padding: 0;
+
+}
+
+/* .about-container
+{
+    left:512px;
+
+} */
+
+.aboutus-section {
+    max-width: 100%;
+    max-height: 100%;
+    background-image: url("../../Assets/Group 34.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    justify-content: left;
+    min-height: 60vh;
+    padding: 10px;
+    position: relative;
+    
+}
+
+.child-1 {
+
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    width: 500px;
+    
+    font-weight: 300;
+
+   margin-bottom: 0px;
+   /* text-align: left; */
+}
+.kuchbhi{
+    background:#E9280B;
+    width: 120px;
+    /* text-align: left; */
+}
+.DOTTED
+{   position:absolute;
+    bottom: 0;
+    left: 30px;
+    width: 200px;
+height: 192.91px;
+}
+
+/* .child-2 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    position: absolute;
+    top: 70px;
+    left: 30px;
+}
+
+.child-3 {
+    position: absolute;
+    top: 150px;
+    left: 30px;
+
+} */
+.tocheck{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 500px;
+    
+    font-weight: 300;
+
+   margin-bottom: 0px;
+   text-align: left;
+}
+.about-span
+{
+    color: #B3B3B3;
+}

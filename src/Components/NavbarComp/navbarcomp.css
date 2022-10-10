@@ -1,4 +1,11 @@
 .text-color
 {
   color: white;
+  height: 30;
+  width: 50;
+}
+.logo-img{
+  display: block;
+  
+  max-width: 100%;
 }
