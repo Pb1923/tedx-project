@@ -3,14 +3,18 @@ import Header from './Components/Header/Header';
 import About from './Components/About/About';
 import Info from "./Components/Info/Info";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbarcomp from './Components/NavbarComp/Navbarcomp';
-import First from './Components/First/First';
+// import Navbarcomp from './Components/NavbarComp/Navbarcomp';
+// import First from './Components/First/First';
 import What from './Components/Whatis/What';
 import Navbar from './FinalNav/Finalnav';
 import FirstSection from './Components/Firstsection/Firstsection';
 import EVENTS from './Components/EVENTSS/EVENTS.jsx';
-
-import Carousel from './Components/Carousel/Carousel';
+import Slider from "react-slick";
+import React from 'react';
+import Imagecarousel from './Components/Carousel/Imagecarousel';
+// import "slick-carousel/slick/slick.css"; 
+// import "slick-carousel/slick/slick-theme.css";
+// import SimpleSlider from "./Components/Carousel/Carousel";
 // import {
 //   BrowserRouter,
 //   Routes,
@@ -27,10 +31,9 @@ function App() {
       {/*import the component that you created  */}
 
       <About />
-      {/* <Event/> */}
+
       <EVENTS />
-      {/* <Carousel /> */}
-      <Header />
+      <Imagecarousel/>
       <Info />
 
 
